@@ -1,9 +1,3 @@
-#=
-=
-=    Authors: Mauricio Araya Polo
-=    Date: 09/2016 - present
-=
-=#
 
 global const bcoeffs = [ -205.f0/72.f0, 8.f0/5.f0, -1.f0/5.f0, 8.f0/315.f0, -1.f0/560.1f0 ]
 global const STENCIL = Int32(4)
