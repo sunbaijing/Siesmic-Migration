@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 26 11:35:35 2019
-
-@author: baiji
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 E=np.zeros(200*200)
