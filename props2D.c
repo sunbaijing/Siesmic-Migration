@@ -1,9 +1,3 @@
-/*
- *
- * Author: Mauricio Araya Polo
- * Date: 04/2015 - present
- *
- */
 
 #include "props2D.h"
 
