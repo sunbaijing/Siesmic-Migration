@@ -1,11 +1,3 @@
-#!/usr/bin/python3
-
-'''
-
-    Author: Mauricio Araya
-    date: 2019
-
-'''
 
 import matplotlib.pyplot as plt
 import numpy as np
