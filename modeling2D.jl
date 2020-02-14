@@ -1,10 +1,3 @@
-#=
-=
-=    Author: Mauricio Araya Polo
-=    Date: 09/2016 - present
-=
-=#
-
 # Loading main functions
 include("funcs2D.jl")
 
